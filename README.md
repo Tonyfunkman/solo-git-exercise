@@ -1,2 +1,2 @@
 # solo-git-exercise
-I shall not push to main.
+I will create a conflict.
